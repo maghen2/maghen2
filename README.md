@@ -24,29 +24,20 @@
 - ⚡ J'aime bien les jeux vidéo, les coding Game, l’auto-formation, l'exploration de nouvelles connaissance
 
 Certifications Professionnelles
-• ChatGPT et IA : mode d'emploi pour managers et RH - CNAM
-• Certification ISTQB - International Software Testing Qualifications Board
-• c programming language (langage C) - Duke University
-• Apprendre à coder avec Python –Université Bruxelles
-• Python 3 : des fondamentaux aux concepts avancés du langage – Université Côte d'Azur
-• Concevez votre site web avec PHP et MySQL – Ecole Supérieure d’Informatique
-• Apprenez à programmer avec JavaScript –OpenClassrooms
-• Initiation à la programmation en Java – École Polytechnique
-• Fondamentaux pour le Big Data –Institut MinesTélécom
-• Introduction à la statistique avec R – Université Paris-Sud
-• Fondamentaux en statistique – Sorbone Université 
-• Informatique et libertés sur internet – CNAM
-
-
-
-- [AngularJS] - HTML enhanced for web apps!
-- [Ace Editor] - awesome web-based text editor
-- [markdown-it] - Markdown parser done right. Fast and easy to extend.
-- [Twitter Bootstrap] - great UI boilerplate for modern web apps
-- [node.js] - evented I/O for the backend
-- [Express] - fast node.js network app framework [@tjholowaychuk]
-- [Gulp] - the streaming build system
-- [Breakdance](https://breakdance.github.io/breakdance/) - HTML
-to Markdown converter
-- [jQuery] - 
+- [IA ChatGPT] -  ChatGPT et IA : mode d'emploi pour managers et RH - CNAM
+- [IA ChatGPT] -  Utilisez ChatGPT pour améliorer votre productivité - OpenClassrooms
+- [Intelligence artificielle] -  Formation : Cursus Intelligence artificielle - Bpifrance Université
+- [ISTQB] -  Certification ISTQB - International Software Testing Qualifications Board
+- [C] -  c programming language (langage C) - Duke University
+- [Python] -  Apprendre à coder avec Python –Université Bruxelles
+- [Python] -  Python 3 : des fondamentaux aux concepts avancés du langage – Université Côte d'Azur
+- [PHP et MySQL] -  Concevez votre site web avec PHP et MySQL – Ecole Supérieure d’Informatique
+- [HTML5 et CSS3] -  Apprenez à créer votre site web avec HTML5 et CSS3 – OpenClassrooms
+- [JavaScript] -  Apprenez à programmer avec JavaScript – OpenClassrooms
+- [Java] -  Initiation à la programmation en Java – École Polytechnique
+- [Java] -  Apprenez à programmer en Java – Ecole Supérieure de Génie Informatique (ESGI)
+- [Big Data] -  Fondamentaux pour le Big Data – Institut MinesTélécom
+- [R] -  Introduction à la statistique avec R – Université Paris-Sud
+- [statistique] -  Fondamentaux en statistique – Sorbone Université 
+- [CNIL] -  Informatique et libertés sur internet – CNAM
 
