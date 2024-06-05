@@ -23,7 +23,7 @@
 - 🤔 Comme vous pourrez le constater à l’étude de mon dossier de candidature, je cumule l’expérience, la motivation, les facultés intellectuelles, les qualités personnelles, les ressources et techniques nécessaires à ma réussite à cette fonction
 - ⚡ J'aime bien les jeux vidéo, les coding Game, l’auto-formation, l'exploration de nouvelles connaissance
 
-Certifications Professionnelles
+## Certifications Professionnelles
 - [IA ChatGPT] -  ChatGPT et IA : mode d'emploi pour managers et RH - CNAM
 - [IA ChatGPT] -  Utilisez ChatGPT pour améliorer votre productivité - OpenClassrooms
 - [Intelligence artificielle] -  Formation : Cursus Intelligence artificielle - Bpifrance Université
