@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**maghen2/maghen2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![linkedin-background-banner-for-software-developer](https://github.com/maghen2/maghen2/assets/101536427/2588a90b-0b82-4675-8155-f8e53e1af97f)
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
