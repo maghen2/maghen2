@@ -5,7 +5,8 @@
 ## Recherche de stage du 19-08-2024 au 04-10-2024
 
 Rostant MAGHEN
- 	maghen2@gmail.com
+ ![image](https://github.com/maghen2/maghen2/assets/101536427/f1b8c347-77af-4b31-97ba-3f179f35a86a)
+	maghen2@gmail.com
  	+33 7 53 76 11 55
  	+49 1521 7880350
   
